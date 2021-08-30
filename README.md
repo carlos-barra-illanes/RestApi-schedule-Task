@@ -2,10 +2,6 @@
 API REST que consume servicio que genera de manera aleatoria tareas con una duracion determinada.
 
 
-# ☕️ Schedule Generator 
-
-> ℹ️ API REST que consume servicio que genera de manera aleatoria tareas con una duracion determinada.
-
 ## ☝️ Dependencias
 
 * Java 11
