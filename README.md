@@ -4,7 +4,7 @@ API REST que consume servicio que genera de manera aleatoria tareas con una dura
 
 # ☕️ Schedule Generator 
 
-> ℹ️ Api generadora de tareas (schedule) -> En este repositorio se encuentra un microservicio que generará los datos de entrada para el desafío
+> ℹ️ API REST que consume servicio que genera de manera aleatoria tareas con una duracion determinada.
 
 ## ☝️ Dependencias
 
